@@ -68,6 +68,25 @@ export const sampleTrips = [
       '/images/worldtech/a9e7f01c-11fb-47c2-8c44-ea18f786f7e8.jpg'
     ],
     createdAt: '2025-11-15T10:00:00.000Z'
+  },
+  {
+    id: '6',
+    title: 'Learning Journal',
+    date: '2025-12-10',
+    location: 'Cebu City and Bohol City, Philippines',
+    photos: [
+      '/images/journal/Document 2_1.jpg',
+      '/images/journal/Document_8.jpg',
+      '/images/journal/Document_7.jpg',
+      '/images/journal/Document_6.jpg',
+      '/images/journal/Document_5.jpg',
+      '/images/journal/Document_4.jpg',
+      '/images/journal/Document_3.jpg',
+      '/images/journal/Document_2.jpg',
+      '/images/journal/Document_1.jpg',
+      
+    ],
+    createdAt: '2025-12-10T10:00:00.000Z'
   }
 ];
 
@@ -110,7 +129,7 @@ export const sampleCertificates = [
   }
 ];
 
-// Function to initialize sample data if none exists
+
 export const initializeSampleData = () => {
   const existingTrips = localStorage.getItem('portfolio-trips');
   const existingCertificates = localStorage.getItem('portfolio-certificates');
@@ -124,7 +143,7 @@ export const initializeSampleData = () => {
   }
 };
 
-// Function to force refresh all data (useful during development)
+
 export const forceRefreshData = () => {
   localStorage.setItem('portfolio-trips', JSON.stringify(sampleTrips));
   localStorage.setItem('portfolio-certificates', JSON.stringify(sampleCertificates));

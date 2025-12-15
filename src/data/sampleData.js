@@ -16,7 +16,7 @@ export const sampleTrips = [
   {
     id: '2',
     title: 'Mata Technologies Inc.',
-    date: '2025-11-18',
+    date: '2025-11-21',
     location: 'Cebu City, Philippines',
     description: 'Mata Technologies Inc. is a proudly homegrown Philippine company specializing in virtual tours for real estate and virtual reality mapping for tourist destinations across the country. Inspired by the Filipino word “mata,” meaning “eyes,” Mata Tech provides immersive 360° previews that allow users to explore properties and notable locations as if they were truly there.',
     photos: [
@@ -47,7 +47,7 @@ export const sampleTrips = [
     title: 'T.A.R.S.I.E.R 117',
     date: '2025-11-22',
     location: 'Bohol,Philippines',
-    description: '7 ARSIER 117 Which stands for Tourist Assistance and Rescue Section, immediate Emergency Responders, is an emergency response and disaster management unit established by the Provincial Government of Bohol. It was created to ensure the safety and security of both locals and tourists by providing immediate assistance during emergencaes, such as accidents natural disasters, and medical snuations. Operating 24/7 through the emergency hotline 117. TARSLER. 117 is composed of trashed responders equipped for rescue, first aid, and disaster operations.',
+    description: 'TARSIER 117 Which stands for Tourist Assistance and Rescue Section, immediate Emergency Responders, is an emergency response and disaster management unit established by the Provincial Government of Bohol. It was created to ensure the safety and security of both locals and tourists by providing immediate assistance during emergencaes, such as accidents natural disasters, and medical snuations. Operating 24/7 through the emergency hotline 117. TARSIER. 117 is composed of trashed responders equipped for rescue, first aid, and disaster operations.',
     photos: [
       '/images/tarsier/1.jpg',
       '/images/tarsier/7c0c3712-ab24-4fde-ac89-358bf9f1b859.jpg',
@@ -59,7 +59,7 @@ export const sampleTrips = [
   {
     id: '5',
     title: 'WorldTech Conference',
-    date: '2025-11-15',
+    date: '2025-11-19',
     location: 'Cebu City, Philippines',
     description: 'Worldtech Information Solutions, Inc. is a Philippine-based IT consultancy and training company with offices in Cebu, Manila, and international presence in Australia and Singapore. The company specializes in IT consulting, cybersecurity solutions, and professional training, including authorized certification programs in Microsoft, Cisco, and VMware technologies. It serves a diverse client base, including banks, government agencies, schools, and large enterprises, offering both strategic IT guidance and skills development. With a team of experienced consultants and certified trainers, Worldtech emphasizes cybersecurity, operational technology protection, and capacity building for organizations seeking to enhance their IT infrastructure and workforce competencies.',
     photos: [
@@ -72,7 +72,7 @@ export const sampleTrips = [
   {
     id: '6',
     title: 'Learning Journal',
-    date: '2025-12-10',
+    date: '2025-12-22',
     location: 'Cebu City and Bohol City, Philippines',
     photos: [
       '/images/journal/Document 2_1.jpg',

@@ -72,7 +72,7 @@ export const sampleTrips = [
   {
     id: '6',
     title: 'Learning Journal',
-    date: '2025-12-22',
+    date: '2025-11-22',
     location: 'Cebu City and Bohol City, Philippines',
     photos: [
       '/images/journal/Document 2_1.jpg',
